@@ -11,6 +11,6 @@ Features
 
 Technologies Used
 
--HTML%
+-HTML5
 
 -CSS3
